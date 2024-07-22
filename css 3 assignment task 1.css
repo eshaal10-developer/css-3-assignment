@@ -1,0 +1,60 @@
+.container{
+    background-color: rgb(225, 219, 219);
+    border: 2px solid rgb(12, 12, 12);
+  height: 430px;
+  width: 395px;
+  margin: 150px auto 70px;
+  font-size: xx-large
+}
+.div1{
+    background-color: rgb(23, 176, 227);
+    border: 1.5px solid rgb(12, 77, 151);
+    color:black;
+    width: 385px;
+}
+.div2{
+    background-color: rgb(152, 233, 152);
+    border: 1.5px solid rgb(9, 151, 64);
+    color:black;
+    width: 385px;
+}
+.container2{
+    display: flex;
+}
+.div3{
+  background-color: rgb(135, 228, 143);
+  border: 2px solid rgb(31, 145, 40);
+  width: 190px;
+  margin: 8px 8px;
+  display: inline-block;
+}
+.div4{
+    background-color: rgb(212, 196, 242);
+  border: 2px solid rgb(127, 63, 247);
+}
+.div5{
+    background-color: rgb(230, 190, 190);
+    border: 1px solid rgb(255, 1, 1);
+
+}
+.div6{
+    background-color: rgb(230, 190, 190);
+    border: 1px solid rgb(255, 1, 1);
+
+}
+.div7{
+    border: 2px solid rgb(254, 254, 2);
+  background-color: rgb(234, 252, 76);
+  height: 145px;
+  margin: 6px 10px;
+   margin-top: 5%;
+  width: 70px;
+  padding: 60px 40px;
+  
+}
+.div8{
+    background-color: rgb(154, 178, 243);
+    border: 2px solid rgb(2, 31, 254);
+    color: rgb(5, 5, 5);
+    margin-top: -1%;
+}

@@ -1,0 +1,54 @@
+    body{
+    background-image: url(pngtree-3d-rendering-of-a-luxurious-elegance-bedroom-with-black-wall-image_3811449.jpg);
+    background-size: cover;
+    }
+   h3{
+    color: rgb(255, 255, 255);
+    display: inline-block;
+    margin-left: 8%;
+    margin-top: 4%;
+    font-family: Arial, Helvetica, sans-serif;
+   }  
+   li{
+ color: rgb(255, 255, 255);
+ display: inline; 
+ padding: 10px 25px;
+   }
+ul{
+    margin-left: 40%;
+}
+
+h1{
+    color:rgb(255, 255, 255);
+    text-align: center;
+    margin-top: 10%;
+    font-size: 60px;
+}
+
+p{
+    color:rgb(255, 255, 255);
+    margin-right: 30%;
+    margin-left: 30%;
+}
+
+button{
+        color:rgb(255, 255, 255);
+        background: transparent;
+        border: 2px solid rgb(135, 206, 250);
+        border-radius: 20px;
+        margin: 20px;width: 280px;
+        height: 40px;
+        cursor: pointer ;
+        font-size: 20px;
+}
+
+th{
+    color: rgb(255, 255, 255);
+    border-color:rgb(255, 255, 255);
+}
+
+td{
+    color: rgb(255, 255, 255);
+    border-color: rgb(255, 255, 255);
+    
+}
